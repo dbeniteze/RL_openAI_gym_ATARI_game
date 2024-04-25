@@ -3,7 +3,11 @@ Testing some Deep Reinforcement Learning algorithms in Atari OpenAI gym framewor
 
 Algorithms: PPO, recurrentPPO and QR-DQN
 
-![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
+No deterministic version of Breakout environment
+
+![](https://github.com/dbeniteze/openAI_gym_breakout_game/blob/main/sample/3M_qrdqn_breakout_4k_vec32_128stepbatch.gif)
+
+QR-DQN - 3M timesteps
 
 References:
 

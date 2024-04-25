@@ -3,6 +3,8 @@ Testing some Deep Reinforcement Learning algorithms in Atari OpenAI gym framewor
 
 Algorithms: PPO, recurrentPPO and QR-DQN
 
+![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
+
 References:
 
 <a href="https://gymnasium.farama.org/environments/atari/breakout/" target="_blank">Atari environment - Gymnasium </a>

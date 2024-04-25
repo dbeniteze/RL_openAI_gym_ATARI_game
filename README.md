@@ -12,4 +12,5 @@ QR-DQN - 3M timesteps
 References:
 
 <a href="https://gymnasium.farama.org/environments/atari/breakout/" target="_blank">Atari environment - Gymnasium </a>
+
 <a href="https://github.com/Stable-Baselines-Team/stable-baselines3-contrib" target="_blank">Stable Baselines 3 Contrib </a>

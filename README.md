@@ -1,17 +1,19 @@
 # openAI_gym_breakout_game
-Testing some Deep Reinforcement Learning algorithms in Atari OpenAI gym framework
 
-Environment: BreakoutNoFrameskip-v4
-Algo: PPO
-Optimizer: AdamW 
-Activation fn: ReLU
+Este repositorio contiene pruebas de algoritmos de Deep Reinforcement Learning en el entorno Atari de OpenAI Gym.
 
-![](https://github.com/dbeniteze/openAI_gym_breakout_game/blob/main/sample/10M_timesteps_breakout.gif)
+**Entorno:** BreakoutNoFrameskip-v4  
+**Algoritmo:** PPO  
+**Optimizador:** AdamW  
+**Función de activación:** ReLU
 
-PPO - 10M timesteps
+## Muestra en acción
 
-References:
+![GIF de entrenamiento](https://raw.githubusercontent.com/dbeniteze/openAI_gym_breakout_game/main/sample/10M_timesteps_breakout.gif)
 
-<a href="https://gymnasium.farama.org/environments/atari/breakout/" target="_blank">Atari environment - Gymnasium </a>
-<a href="https://stable-baselines3.readthedocs.io/en/master/index.html" target="_blank">Stable Baselines 3 </a>
-<a href="https://github.com/Stable-Baselines-Team/stable-baselines3-contrib" target="_blank">Stable Baselines 3 Contrib </a>
+## Referencias
+
+- [Atari environment - Gymnasium](https://gymnasium.farama.org/environments/atari/breakout/)
+- [Stable Baselines 3](https://stable-baselines3.readthedocs.io/en/master/index.html)
+- [Stable Baselines 3 Contrib](https://github.com/Stable-Baselines-Team/stable-baselines3-contrib)
+

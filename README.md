@@ -9,9 +9,9 @@ Testing some Deep Reinforcement Learning algorithms in Atari OpenAI gym framewor
 
 ## Sample - 10M timestep PPO
 
-![GIF de entrenamiento](https://raw.githubusercontent.com/dbeniteze/openAI_gym_breakout_game/main/sample/10M_timesteps_breakout.gif)
+![10M timestep PPO](https://raw.githubusercontent.com/dbeniteze/openAI_gym_breakout_game/main/sample/10M_timesteps_breakout.gif)
 
-## Referencias
+## References
 
 - [Atari environment - Gymnasium](https://gymnasium.farama.org/environments/atari/breakout/)
 - [Stable Baselines 3](https://stable-baselines3.readthedocs.io/en/master/index.html)

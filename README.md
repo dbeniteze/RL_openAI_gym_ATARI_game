@@ -9,7 +9,7 @@ Testing some Deep Reinforcement Learning algorithms in Atari OpenAI gym framewor
 
 ## Sample - 10M timestep PPO
 
-![10M timestep PPO](./sample/10M_timesteps_breakout.gif)
+![10M timestep PPO](sample/10M_breakout.gif)
 
 
 ## References

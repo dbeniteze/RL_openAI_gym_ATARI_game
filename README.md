@@ -1,13 +1,13 @@
 # openAI_gym_breakout_game
 
-Este repositorio contiene pruebas de algoritmos de Deep Reinforcement Learning en el entorno Atari de OpenAI Gym.
+Testing some Deep Reinforcement Learning algorithms in Atari OpenAI gym framework.
 
-**Entorno:** BreakoutNoFrameskip-v4  
-**Algoritmo:** PPO  
-**Optimizador:** AdamW  
-**Función de activación:** ReLU
+**Environment:** BreakoutNoFrameskip-v4  
+**Algo:** PPO  
+**Optimizer:** AdamW  
+**Activation fn:** ReLU
 
-## Muestra en acción
+## Sample - 10M timestep PPO
 
 ![GIF de entrenamiento](https://raw.githubusercontent.com/dbeniteze/openAI_gym_breakout_game/main/sample/10M_timesteps_breakout.gif)
 
